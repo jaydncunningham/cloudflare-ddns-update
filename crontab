@@ -1,0 +1,1 @@
+*/5 * * * * python3 /home/user/cloudflare-ddns-update/main.py > /tmp/cf_ddns_update.log
